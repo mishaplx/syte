@@ -1,0 +1,23 @@
+
+.header_table{
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.header_cotalog{
+    width: 100%;
+    background: #a4a5a0;
+    height: 70px;
+
+    position: fixed;
+}
+.table_cotolog{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+
+}
+.text{
+    padding: 1%;
+    color: rgb(245, 245, 245);
+}
