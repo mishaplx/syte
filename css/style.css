@@ -21,3 +21,16 @@
     padding: 1%;
     color: rgb(245, 245, 245);
 }
+.info-text{
+    color: #a4a5a0;
+}
+.advertising{
+    padding-top: 10%;
+}
+.basket{
+    padding-bottom:  40px;
+    padding-right: 30px;
+}
+.sign{
+    padding-left: 20px;
+}
